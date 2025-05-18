@@ -1,4 +1,6 @@
-# OpenMarch Website
+# [ARCHIVED] OpenMarch Website
+
+> This repo has been moved to the main [OpenMarch repository](https://github.com/OpenMarch/OpenMarch) in favor of a monorepo strategy.
 
 Here is our main website, and documentation!
 
